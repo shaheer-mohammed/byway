@@ -1,0 +1,215 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "quote": "Byway's tech courses are top-notch! As someone who's always looking to stay ahead in the rapidly evolving tech world, I appreciate the up-to-date content and engaging multimedia.",
+      "name": "Jane Doe",
+      "title": "Designer",
+      "image": "/images/span-7.png"
+    },
+    {
+      "id": 2,
+      "quote": "The courses provided by Byway have been incredibly helpful in advancing my career in technology.I appreciate the up-to-date content and engaging multimedia.",
+      "name": "John Smith",
+      "title": "Software Engineer",
+      "image": "/images/span-6.png"
+    },
+    {
+      "id": 3,
+      "quote": "I love how Byway integrates real-world examples into their teaching material. It's practical and easy to apply.I appreciate the up-to-date content and engaging multimedia.",
+      "name": "Emily Clarke",
+      "title": "Data Scientist",
+      "image": "/images/span-7.png"
+    },
+    {
+      "id": 4,
+      "quote": "Byway's platform is the best I've ever used for learning and upskilling in the tech industry.I appreciate the up-to-date content and engaging multimedia.",
+      "name": "Michael Doe",
+      "title": "Project Manager",
+      "image": "/images/span-6.png"
+    },
+    {
+      "id": 5,
+      "quote": "The community aspect of Byway is fantastic. I love collaborating with like-minded professionals.I appreciate the up-to-date content and engaging multimedia.",
+      "name": "Anna Marie",
+      "title": "Product Designer",
+      "image": "/images/span-6.png"
+    },
+    {
+      "id": 6,
+      "quote": "The flexibility of Byway's courses fits perfectly with my busy schedule as a freelancer.I appreciate the up-to-date content and engaging multimedia.I appreciate the up-to-date .",
+      "name": "Robert Brown",
+      "title": "Freelance Developer",
+      "image": "/images/span-1.png"
+    },
+    {
+      "id": 7,
+      "quote": "Byway's teaching style is thorough and easy to follow. I'm more confident in my skills.I appreciate the up-to-date content and engaging multimedia.I appreciate the up-to-date .",
+      "name": "Sarah Connor",
+      "title": "UX Designer",
+      "image": "/images/span-6.png"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "name": "Ronald Richards",
+      "title": "UI/UX Designer",
+      "rating": 4.9,
+      "students": 2400,
+      "image": "/images/model-5.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "title": "Frontend Developer",
+      "rating": 4.8,
+      "students": 1800,
+      "image": "/images/model-5.jpg"
+    },
+    {
+      "id": 3,
+      "name": "John Smith",
+      "title": "Software Engineer",
+      "rating": 4.7,
+      "students": 2200,
+      "image": "/images/model-5.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Denilson",
+      "title": "Tester",
+      "rating": 4.7,
+      "students": 1200,
+      "image": "/images/model-5.jpg"
+    },
+    {
+      "id": 5,
+      "name": "John Davis",
+      "title": "Designer",
+      "rating": 4.5,
+      "students": 2800,
+      "image": "/images/model-5.jpg"
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "title": "Beginner's Guide to Design Design",
+      "author": "Ronald Richards",
+      "rating": 5,
+      "ratingCount": 1200,
+      "totalHours": 22,
+      "lectures": 155,
+      "level": "Beginner",
+      "price": "$149.9",
+      "image": "/images/bg.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Advanced Frontend Development",
+      "author": "Jane Doe",
+      "rating": 3,
+      "ratingCount": 1500,
+      "totalHours": 25,
+      "lectures": 210,
+      "level": "Advanced",
+      "price": "$189.9",
+      "image": "/images/bg.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Beginner's Guide to Development",
+      "author": "Jane Doe",
+      "rating": 4,
+      "ratingCount": 1300,
+      "totalHours": 29,
+      "lectures": 100,
+      "level": "Advanced",
+      "price": "$190.9",
+      "image": "/images/bg.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Advanced Frontend Development",
+      "author": "Jane Doe",
+      "rating": 5,
+      "ratingCount": 1900,
+      "totalHours": 36,
+      "lectures": 240,
+      "level": "Advanced",
+      "price": "$169.9",
+      "image": "/images/bg.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Astrology",
+      "courseCount": 11
+    },
+    {
+      "id": 2,
+      "name": "Development",
+      "courseCount": 10
+    },
+    {
+      "id": 3,
+      "name": "Marketing",
+      "courseCount": 9
+    },
+    {
+      "id": 4,
+      "name": "Physics",
+      "courseCount": 14
+    }
+  ],
+  "reviewsData": [
+    {
+      "id": 1,
+      "name": "Mark Doe",
+      "rating": 5,
+      "date": "Reviewed on 22nd March, 2024",
+      "reviewText": "I was initially apprehensive, having no prior design experience. But the instructor, John Doe, did an amazing job of breaking down complex concepts into easily digestible modules. The video lectures were engaging, and the real-world examples really helped solidify my understanding.",
+      "image": "/images/span-6.png"
+    },
+    {
+      "id": 2,
+      "name": "Jone Doe",
+      "rating": 5,
+      "date": "Reviewed on 22nd March, 2024",
+      "reviewText": "I was initially apprehensive, having no prior design experience. But the instructor, John Doe, did an amazing job of breaking down complex concepts into easily digestible modules. The video lectures were engaging, and the real-world examples really helped solidify my understanding.",
+      "image": "/images/span-6.png"
+    },
+    {
+      "id": 3,
+      "name": "Smith Doe",
+      "rating": 5,
+      "date": "Reviewed on 22nd March, 2024",
+      "reviewText": "I was initially apprehensive, having no prior design experience. But the instructor, John Doe, did an amazing job of breaking down complex concepts into easily digestible modules. The video lectures were engaging, and the real-world examples really helped solidify my understanding.",
+      "image": "/images/span-6.png"
+    }
+  ],
+  "syllabusData" : [
+    {
+      "title": "Introduction to UX Design",
+      "lessons": "5 Lessons",
+      "duration": "1 hour"
+    },
+    {
+      "title": "Basics of User-Centered Design",
+      "lessons": "5 Lessons",
+      "duration": "1 hour"
+    },
+    {
+      "title": "Elements of User Experience",
+      "lessons": "5 Lessons",
+      "duration": "1 hour"
+    },
+    {
+      "title": "Visual Design Principles",
+      "lessons": "5 Lessons",
+      "duration": "1 hour"
+    }
+  ]
+}
