@@ -97,6 +97,7 @@ const InstructorsCardDiv = styled.div`
   justify-content: space-between;
   flex-wrap: wrap;
   gap: 20px;
+  cursor: pointer;
   margin-top: 20px;
   align-items: center;
   text-align: center;

@@ -192,6 +192,7 @@ const PageNavigation = styled.div`
 `;
 const Span = styled.span`
   font-size: 17px;
+  cursor: pointer;
   @media all and (max-width: 768px) {
     font-size: 14px;
   }
@@ -205,6 +206,7 @@ const Span = styled.span`
 const SpanColor = styled.span`
   color: #2563eb;
   font-size: 17px;
+  cursor: pointer;
   @media all and (max-width: 768px) {
     font-size: 14px;
   }
@@ -426,6 +428,7 @@ const Button = styled.button`
   color: white;
   background: #020617;
   line-height: 22.4px;
+  cursor: pointer;
   &:hover {
     background-color: #444;
   }

@@ -687,6 +687,8 @@ const ViewMoreButton = styled.button`
   height: 48px;
   padding: 10px 24px 10px 24px;
   gap: 6px;
+  cursor: pointer;
+
   border-radius: 8px;
   background-color: white;
 
