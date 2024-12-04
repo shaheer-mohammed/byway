@@ -258,7 +258,7 @@ const TestimonialCard = styled.div`
   height: 236px;
   padding: 28px;
   gap: 8px;
-  border-radius: 24px;
+  border-radius: 16px;
   border: 1px solid #e2e8f0;
   display: flex;
   flex-direction: column;
