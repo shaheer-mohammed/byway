@@ -102,7 +102,7 @@ const Description = styled.p`
   font-size: 16px;
   font-weight: 400;
   line-height: 25.6px;
-
+  color: #334155;
   @media all and (max-width: 768px) {
     font-size: 14px;
     font-weight: 400;
@@ -114,7 +114,7 @@ const Description = styled.p`
 `;
 
 const Button = styled.button`
-  background-color: #007bff;
+  background-color: #3B82F6;
   color: white;
   padding: 16px 14px;
   border: none;
