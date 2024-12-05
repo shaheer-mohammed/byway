@@ -259,10 +259,10 @@ const TestimonialCard = styled.div`
   padding: 28px;
   gap: 8px;
   border-radius: 16px;
-  border: 1px solid #e2e8f0;
+  border: 1px solid #E2E8F0;
   display: flex;
   flex-direction: column;
-  box-shadow: 0px 0px 20px 0px #3b82f61f;
+  box-shadow: 1px 1px 3px 1px #3B82F61F;
   transition: transform 0.5s ease-in-out;
 
   @media all and (max-width: 640px) {
